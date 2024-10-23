@@ -1,3 +1,10 @@
+floww-ai
+Backend Assignment Floww_ai
+
+Financial Records API
+This is a simple RESTful API for managing personal financial transactions such as income and expenses.
+
+
 // Database Setup:
 // The transactions table is created to store transactions (income or expense), including fields like type, category, amount, date, and description.
 
